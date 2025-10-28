@@ -1,6 +1,7 @@
 # LazyTasks
 this is a fork of 
-![GoDo](https://img.shields.io/github/v/release/ritikdhasmana/godo)
+![GoDo](https://github.com/ritikdhasmana/godo/)
+
 Why leave your nice and cozy terminal just to write tiny lil todos when you can use godo!
 
 > A simple cli todo written in go.
